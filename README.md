@@ -8,7 +8,7 @@ My name is Dwitrisha.👋</h2>
 
 <p align="center">I am currently pursuing my B.tech in Information Technology from Manipal Institute of Technology. I love swimming and I am part of the Swim Team at my college.Apart from that I am also a big Potterhead. Currently exploring Cloud Computing!
 </p>
-
+<p align="center">
 ![Dwitrisha's Github Stats](https://github-readme-stats.vercel.app/api?username=Dwitrisha&show_icons=true&theme=vue-dark)
-
+</p>
 
